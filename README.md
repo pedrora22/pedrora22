@@ -9,8 +9,9 @@ I'm confortable with:
 I'm currently learning:
 <br>
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-
+<br>
+<br>
+<br>
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrora22&theme=blue-green)
 
 Contact ☎️
