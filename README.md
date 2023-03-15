@@ -14,6 +14,8 @@ I'm currently learning:
 <br>
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrora22&theme=blue-green)
 
+I'm B2 (CEFRL) in English, A1 in german and a portuguese native speaker. 🌐
+
 Contact ☎️
 <br>
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/peurabelo) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-rabelo-905aa2249/) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.rabelo114@gmail.com)
