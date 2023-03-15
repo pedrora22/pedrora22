@@ -14,7 +14,7 @@ I'm currently learning:
 <br>
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrora22&theme=blue-green)
 
-I'm B2 (CEFRL) in English, A1 in german and a portuguese native speaker. 🌐
+B2 (CEFRL) in English, A1 in german and a portuguese native speaker. 🌐
 
 Contact ☎️
 <br>
